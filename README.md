@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolay MENA</h1>
-<h3 align="center">A passionate FullStack developer</h3>
+<h3 align="center">A passionate FullStack Developer</h3>
 
 - 👨‍💻 All of my projects are available at [http://www.omeniaweb.com/nicolaymena/#portfolio](http://www.omeniaweb.com/nicolaymena/#portfolio)
 
